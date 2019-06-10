@@ -1,4 +1,4 @@
-# [Course Title] by [Author]
+# Coercion in Javascript by Kyle Simpson
 
 This repository was created with the purpose of studying and fixing the knowledge acquired in the courses from FrontEnd Masters.
 
