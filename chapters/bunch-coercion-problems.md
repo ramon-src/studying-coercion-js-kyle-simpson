@@ -13,6 +13,6 @@ String([null]) === "";
 String([undefined]) === "";
 ```
 
-To know what bunch of issues can be fixed when fix the problems above(click here)[http://getify.github.io/coercions-grid]
+To know what bunch of issues can be fixed when fix the problems above[click here](http://getify.github.io/coercions-grid)
 
-(More info about coercion click here)[http://davidwalsh.name/fixing-coercion]
+[More info about coercion click here](http://davidwalsh.name/fixing-coercion)
